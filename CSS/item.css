@@ -112,6 +112,7 @@ button:first-child {
     margin-top: 160%;
   }
   .bg-image {
+    background-image: url("./../img/Screenshot\ \(210\).png");
     height: 100%;
     width: 50%;
   }
